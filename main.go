@@ -17,5 +17,6 @@ func main() {
 	answer.Experiment10()
 	answer.Experiment11()
 	answer.Experiment12()
-	answer.Experiment13()
+	// answer.Experiment13()
+	answer.DynamicProgrammingExperiment()
 }
